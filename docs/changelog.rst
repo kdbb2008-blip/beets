@@ -12,6 +12,8 @@ Unreleased
 Beets now requires Python 3.11 or later since support for EOL Python 3.10 has
 been dropped.
 
+- :doc:`plugins/spotify`: Correct the ``spotifysync`` long option to
+  ``--force`` and document selecting tracks with a query.
 New features
 ~~~~~~~~~~~~
 
